@@ -22,7 +22,7 @@ Multi-Client Chat Room
 - One for **sending** typed messages to the server.
 
 
-## 💻 Run the App
+## Run the App
 
 ###  Start the server:
 ```bash
